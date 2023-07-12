@@ -5,6 +5,6 @@ public class AriException{
         }catch(ArithmeticException e){
             System.out.println(e);
         }
-        System.out.println("rest of the code");
+        System.out.println("rest of the code hello world");
     }
 }
